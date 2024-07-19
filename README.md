@@ -6,7 +6,9 @@ It can help an individual to use `C++` features from beginner level to an advanc
 To use this repository efficiently, one will have to comment or comment out some code to adjust it to his need, so that he/she will control what he/she will see in the terminal.
 
 For those who are using the g++ (from gcc) compiler, they may use the following compilation process:
-### g++ -std=c++20 `your file`
+```bash
+g++ -std=c++20 <your-file-name>
+```
 This will help them to avoid errors associated with using the old version of g++ compiler.
 
 Happy coding,
